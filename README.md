@@ -8,6 +8,11 @@
 
 - https://platform.openai.com/api-keys
 
+```bash
+export OPENAI_API_KEY=sk-..ds.f.sd.f....sd.f.
+cargo run
+```
+
 <hr>
 
 # Learn_Rust_OpenAI_API_Jeremy_Chone
