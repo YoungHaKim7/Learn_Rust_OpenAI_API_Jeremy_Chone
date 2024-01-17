@@ -11,8 +11,14 @@
 <hr>
 
 # Learn_Rust_OpenAI_API_Jeremy_Chone
+
 # Result
 
 ```
 
+API Key test # input OpenAIkey <- delete line
+
+Hello, world!
+
+Bye!
 ```
